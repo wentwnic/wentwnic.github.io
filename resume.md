@@ -2,7 +2,7 @@
 wentwnic@uw.edu
 http://www.example.com
 https://www.linkedin.com/in/nicole-saho-okimoto-wentworth/
-<img src="Nicoleresumepic.JPG" width=50%> 
+![pic](Nicoleresumepic.JPG)
 
 ># About Me
 >Currently matriculated at the University of Washington and exploring careers in the environmental field, I am pursuing a Bachelor of Arts in Environmental Studies and a minor in Geography. My interests include closing the gap between the hard sciences and the general public, environmental justice, environmental consulting/management, and community outreach.
