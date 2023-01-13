@@ -1,5 +1,5 @@
 # Nicole Saho Okimoto Wentworth
-wentwnic@uw.edu
+wentwnic@uw.edu 
 http://www.example.com
 https://www.linkedin.com/in/nicole-saho-okimoto-wentworth/
 ![pic](Nicoleresumepic.JPG)
